@@ -1,4 +1,4 @@
 # Senai-versoes-colabora-es
 
 
-Lembrei do comando: git status
+lembrei do status
